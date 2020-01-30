@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Project Name="libs" StartupModule="main.sl">
+  <Files>
+    <Module Path="CircleF.sl" />
+    <Module Path="LineF.sl" />
+    <Module Path="MathF.sl" />
+    <Module Path="PointF.sl" />
+    <Module Path="main.sl" />
+  </Files>
+</Project>
