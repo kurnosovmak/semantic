@@ -5,6 +5,7 @@
     <Module Path="LineF.sl" />
     <Module Path="MathF.sl" />
     <Module Path="PointF.sl" />
+    <Module Path="TriangleF.sl" />
     <Module Path="main.sl" />
   </Files>
 </Project>
